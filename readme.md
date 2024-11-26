@@ -2,3 +2,6 @@
 1. Git clone
 2. install requirements
 3. Run
+
+# Author
+Farhan Ferdianto
